@@ -1,5 +1,4 @@
-package TopAmazonQuestions.Array;
-
+package TopInterviewQuestions.Array;
 import java.util.Arrays;
 
 class Solution6 {

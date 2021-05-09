@@ -1,4 +1,4 @@
-package TopAmazonQuestions.Array;
+package TopInterviewQuestions.Array;
 
 class Solution8 {
     public void moveZeroes(int[] nums) {

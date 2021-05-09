@@ -1,4 +1,4 @@
-package TopAmazonQuestions.Array;
+package TopInterviewQuestions.Array;
 
 import java.util.HashSet;
 
