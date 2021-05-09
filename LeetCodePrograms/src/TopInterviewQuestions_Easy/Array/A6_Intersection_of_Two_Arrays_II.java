@@ -1,4 +1,5 @@
-package TopInterviewQuestions.Array;
+package TopInterviewQuestions_Easy.Array;
+
 import java.util.Arrays;
 
 class Solution6 {

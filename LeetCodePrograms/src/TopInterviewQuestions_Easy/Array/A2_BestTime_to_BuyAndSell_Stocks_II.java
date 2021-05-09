@@ -1,4 +1,4 @@
-package TopInterviewQuestions.Array;
+package TopInterviewQuestions_Easy.Array;
 
 
 class Solution2 {
