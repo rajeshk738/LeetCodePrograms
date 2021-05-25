@@ -10,7 +10,7 @@ package TopInterviewQuestions_Easy.LinkedList;
  *     }
  * }
  */
-public class Solution {
+ class Solution6 {
     public boolean hasCycle(ListNode head) {
         
         if(head == null || head.next == null)
