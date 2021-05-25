@@ -1,4 +1,5 @@
 package TopInterviewQuestions_Easy.LinkedList;
+
 /**
  * Definition for singly-linked list.
  * class ListNode {
@@ -10,7 +11,8 @@ package TopInterviewQuestions_Easy.LinkedList;
  *     }
  * }
  */
- class Solution6 {
+
+class Solution6 {
     public boolean hasCycle(ListNode head) {
         
         if(head == null || head.next == null)
@@ -33,12 +35,14 @@ package TopInterviewQuestions_Easy.LinkedList;
     }
 }
 
-
 public class A6_LinkedList_Cycle {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		Solution6 s = new Solution6();
+		
 	}
 
 }
+
+
+
